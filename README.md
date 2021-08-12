@@ -18,11 +18,12 @@
   ##
  
  
-  ![Snake animation](https://github.com/JoiceO/JoiceO/blob/output/github-contribution-grid-snake.svg)
+  <!--![Snake animation](https://github.com/JoiceO/JoiceO/blob/output/github-contribution-grid-snake.svg) .github/workflows/main.yml
  
 </div>
 
-  ##
+  ## -->
+
 <div>
   <img src="https://komarev.com/ghpvc/?username=JoiceO&color=green" alt="JoiceO" /> 
   </div>
