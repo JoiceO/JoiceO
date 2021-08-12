@@ -1,4 +1,12 @@
-### Hi there 👋
+<h3>Olá, sou a Joice <h3><br>
+  
+[![Joice's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoiceO&count_private=true&show_icons=true&theme=tokyonight)
+](https://github.com/JoiceO/github-readme-stats)
+
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoiceO&repo=github-readme-stats)](https://github.com/JoiceO/github-readme-stats)-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoiceO&langs_count=10&layout=compact)](https://github.com/JoiceO/github-readme-stats)
 
 <!--
 **JoiceO/JoiceO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
