@@ -11,7 +11,7 @@
 <img align="center" alt="Tableau" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg">
 <img align="center" alt="Data Studio" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/google-data-studio.svg">
 <img align="center" alt="power bi" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
-<img align="center" alt="SQL" height="50" width="60" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg">
+<img align="center" alt="SQL" height="30" width="30" src="https://sqlitebrowser.org/images/sqlitebrowser.svg">
   </div>
   
   ##
