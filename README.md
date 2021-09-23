@@ -1,6 +1,6 @@
 <h3>Hi, I'm Joice</h3>
 🌱 I’m a social scientist currently learning data science <br>
-💞️ I’m looking to collaborate on open data projects and research on science, technology and society and critical thinking in data science and AI.
+:bulb: I’m looking to collaborate on open data projects; research on science, technology and society; critical thinking in data science and AI. <br>
 
  ##
  
