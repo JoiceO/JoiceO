@@ -1,5 +1,5 @@
 <h3>Hi, I'm Joice</h3>
-🌱 I’m a social scientist currently learning data science <br>
+🌱 I’m a social scientist currently studying data science <br>
 :bulb: I’m looking to collaborate on open data projects; research on science, technology and society; critical thinking in data science and AI. <br>
 
  ##
