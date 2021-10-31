@@ -1,10 +1,11 @@
 <h3>Hi, I'm Joice</h3>
-🌱 I’m a social scientist currently studying data science <br>
-:bulb: I’m looking to collaborate on open data projects; research on science, technology and society; critical thinking in data science and AI. <br>
+🌱 I’m a social scientist currently studying data analysis <br>
+:bulb: I’m looking to collaborate on open data projects<br>
+:books: My interests are: Public Policy, Human Rights and Sustainability; Science, Technology and Society; Critical Thinking in Data Science and AI. <br>
 
  ##
  
-  <h4>Languages and tools I'm learning:</h4>
+  <h4>Languages and Tools I'm learning:</h4>
 <div style="display: inline_block"><br>
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
@@ -15,18 +16,21 @@
   </div>
   
   ##
- 
- <div>
+  
+  <h4>GitHub's Stats</h4>
+<div>
  <a href="https://github.com/JoiceO"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoiceO&show_icons=true&theme=vue&inclue_all_commits=true&count_private=true" />
+<!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoiceO&show_icons=true&theme=vue&inclue_all_commits=true&count_private=true" />--> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoiceO&langs_count=15&layout=compact&show_icons=true&theme=vue" /> <br>
    </div>
-  
+
   ##
- 
- <div>
+  
+   <div>
   <img src="https://komarev.com/ghpvc/?username=JoiceO&color=green" alt="JoiceO" /> 
   </div>
+ 
+ 
 
 
   
