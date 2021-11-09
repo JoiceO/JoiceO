@@ -1,11 +1,11 @@
-<h3>Hi, I'm Joice</h3>
+<h2>Hi, I'm Joice</h2>
 🌱 I’m a social scientist currently studying data analysis <br>
 :bulb: I’m looking to collaborate on open data projects<br>
-:books: My interests are: Public Policy, Human Rights and Sustainability; Science, Technology and Society; Critical Thinking in Data Science and AI. <br>
+:books: My interests are: Public Policy; Science, Technology and Society; Critical Thinking in Data Science and AI. <br>
 
  ##
  
-  <h4>Languages and Tools I'm learning:</h4>
+  <h3>Languages and tools I'm learning:</h3>
 <div style="display: inline_block"><br>
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
@@ -17,7 +17,7 @@
   
   ##
   
-  <h4>GitHub's Stats</h4>
+  <h3>GitHub's Stats</h3>
 <div>
  <a href="https://github.com/JoiceO"> 
 <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoiceO&show_icons=true&theme=vue&inclue_all_commits=true&count_private=true" />--> 
