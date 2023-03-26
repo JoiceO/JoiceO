@@ -24,7 +24,7 @@
 <div>
 <a href="https://github.com/JoiceO"> 
 <img height="180em"  width="450" src="https://github-readme-stats.vercel.app/api?username=JoiceO&show_icons=true&theme=swift&include_all_commits=true&count_private=true&hide_border=true&hide_title=true" />
- <img height="180em" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoiceO&langs_count=10&layout=compact&show_icons=true&theme=swift&hide_border=true" />  <br>
+ <img height="180em" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoiceO&langs_count=10&layout=compact&show_icons=true&theme=swift&hide_border=true" />  <br>
    </div>
 
   ##
