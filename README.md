@@ -1,9 +1,9 @@
 <h3>Oi, sou a Joice | Hi, I'm Joice</h3>
-🌱 Sou cientista social e cientista de dados<br>
+🌱 Sou cientista social e cientista de dados que usa R e Python para inventários de emissões de GEE<br>
 :bulb: Busco participar em projetos de dados abertos<br>
 :books: Meus interesses são: políticas públicas; ciência, tecnologia e sociedade; pensamento crítico (e ético) em ciência de dados e inteligência artificial.<br><br>
 
-🌱 I’m a social scientist and data scientist<br>
+🌱 I’m a social scientist and data scientist that uses R and Python for GHG emissions inventories<br>
 :bulb: I’m looking to collaborate on open data projects<br>
 :books: My interests are: Public Policy; Science, Technology and Society; Critical Thinking in Data Science and AI. <br>
  ##
