@@ -8,10 +8,10 @@
 :books: My interests are: Public Policy; Science, Technology and Society; Critical Thinking in Data Science and AI. <br>
  ##
  
-  <h4>Linguagens e ferramentas que estou aprendendo | Languages and tools I'm learning:</h4>
+  <h4>Linguagens e ferramentas | Languages and tools</h4>
 <div style="display: inline_block"><br>
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<!-- <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"> -->
+<img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
 <!-- <img align="center" alt="Tableau" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"> -->
 <img align="center" alt="Data Studio" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/google-data-studio.svg">
 <img align="center" alt="power bi" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
