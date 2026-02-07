@@ -1,9 +1,9 @@
 <h3>Oi, sou a Joice | Hi, I'm Joice</h3>
-🌱 Sou cientista social e cientista de dados que usa R e Python. Trabalho com gestão de projetos, de dados e do conhecimento<br>
+🌱 Sou cientista social e cientista de dados que usa R e Python. Trabalho com gestão de projetos, de dados e do conhecimento com experiência em ensino e pesquisa<br>
 :bulb: Busco participar em projetos de dados abertos<br>
 :books: Meus interesses são: políticas públicas; ciência, tecnologia e sociedade; pensamento crítico (e ético) em ciência de dados e inteligência artificial.<br><br>
 
-🌱 I’m a social scientist and data scientist that uses R and Python. I work with project, data and knowledge management<br>
+🌱 I’m a social scientist and data scientist that uses R and Python. I work with project, data and knowledge management with experience in teaching and research<br>
 :bulb: I’m looking to collaborate on open data projects<br>
 :books: My interests are: Public Policy; Science, Technology and Society; Critical Thinking in Data Science and AI. <br>
  ##
@@ -20,14 +20,14 @@
   
   ##
   
-  <h4>Estatísticas do GitHub | GitHub's Stats</h4>
+<!--  <h4>Estatísticas do GitHub | GitHub's Stats</h4>
 <div>
 <a href="https://github.com/JoiceO"> 
 <img height="180em"  width="450" src="https://github-readme-stats.vercel.app/api?username=JoiceO&show_icons=true&theme=swift&include_all_commits=true&count_private=true&hide_border=true&hide_title=true" />
  <img height="180em" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoiceO&langs_count=10&layout=compact&show_icons=true&theme=swift&hide_border=true" />  <br>
    </div>
 
-  ##
+  ##-->
   
 <!--[Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoiceO&repo=CAMINHO_DO_REPOSITORIO) -->
 
