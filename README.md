@@ -1,9 +1,9 @@
 <h3>Oi, sou a Joice | Hi, I'm Joice</h3>
-🌱 Sou cientista social e cientista de dados que usa R e Python. Trabalho com gestão de projetos, de dados e do conhecimento com experiência em ensino e pesquisa<br>
+🌱 Mestranda em Sistemas Complexos. Também sou cientista social e cientista de dados que usa R e Python. Trabalho com gestão de projetos, de dados e do conhecimento com experiência em ensino e pesquisa<br>
 :bulb: Busco participar em projetos de dados abertos<br>
 :books: Meus interesses são: políticas públicas; ciência, tecnologia e sociedade; pensamento crítico (e ético) em ciência de dados e inteligência artificial.<br><br>
 
-🌱 I’m a social scientist and data scientist that uses R and Python. I work with project, data and knowledge management with experience in teaching and research<br>
+🌱 MSc Student in Complex Systems. I’m also a social scientist and data scientist that uses R and Python. I work with project, data and knowledge management with experience in teaching and research<br>
 :bulb: I’m looking to collaborate on open data projects<br>
 :books: My interests are: Public Policy; Science, Technology and Society; Critical Thinking in Data Science and AI. <br>
  ##
