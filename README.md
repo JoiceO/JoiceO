@@ -8,9 +8,8 @@
 :books: My interests are: Public Policy; Science, Technology and Society; Critical Thinking in Data Science and AI. <br>
  ##
  
- 🌐 Acesse meu portfólio atualizado <a href="https://portfolio-joice.lovable.app/"> aqui </a> <br>
- 🌐 Check my updated portfolio <a href="https://portfolio-joice.lovable.app/">here</a>
-
+🌐 Acesse meu portfólio atualizado <a href="https://portfolio-joice.lovable.app/" target="_blank" rel="noopener noreferrer">aqui</a>. <br>
+🌐 Check my updated portfolio <a href="https://portfolio-joice.lovable.app/" target="_blank" rel="noopener noreferrer"> here</a>.
 
  ##
  
