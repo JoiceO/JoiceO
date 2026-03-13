@@ -8,6 +8,12 @@
 :books: My interests are: Public Policy; Science, Technology and Society; Critical Thinking in Data Science and AI. <br>
  ##
  
+ 🌐 Acesse meu portfólio atualizado <a href="https://portfolio-joice.lovable.app/"> aqui </a> <br>
+ 🌐 Check my updated portfolio <a href="https://portfolio-joice.lovable.app/">here</a>
+
+
+ ##
+ 
   <h4>Linguagens e ferramentas | Languages and tools</h4>
 <div style="display: inline_block"><br>
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
