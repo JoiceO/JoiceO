@@ -17,22 +17,22 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+<img align="center" alt="aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <!-- <img align="center" alt="Tableau" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"> -->
-<img align="center" alt="Data Studio" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/google-data-studio.svg">
-<img align="center" alt="power bi" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
+<!--<img align="center" alt="Data Studio" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/google-data-studio.svg"> -->
+<!--<img align="center" alt="power bi" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">-->
 <img align="center" alt="SQL" height="30" width="30" src="https://sqlitebrowser.org/images/sqlitebrowser.svg"> 
   </div>
   
   ##
   
-<!--  <h4>Estatísticas do GitHub | GitHub's Stats</h4>
+<h4>Estatísticas do GitHub | GitHub's Stats</h4>
 <div>
 <a href="https://github.com/JoiceO"> 
 <img height="180em"  width="450" src="https://github-readme-stats.vercel.app/api?username=JoiceO&show_icons=true&theme=swift&include_all_commits=true&count_private=true&hide_border=true&hide_title=true" />
  <img height="180em" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoiceO&langs_count=10&layout=compact&show_icons=true&theme=swift&hide_border=true" />  <br>
    </div>
 
-  ##-->
   
 <!--[Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoiceO&repo=CAMINHO_DO_REPOSITORIO) -->
 
