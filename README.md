@@ -3,7 +3,7 @@
 :bulb: Busco participar em projetos de dados abertos<br>
 :books: Meus interesses são: políticas públicas; ciência, tecnologia e sociedade; pensamento crítico (e ético) em ciência de dados e inteligência artificial.<br><br>
 
-🌱 Masters' student in Complex Systems Modeling, I’m also a social scientist and data scientist that uses R and Python. I work in research, engineering analytics, and project and knowledge management.<br>
+🌱 Masters' student in Complex Systems Modeling, I’m also a social scientist and data analyst that uses R and Python. I work in research, engineering analytics, and project and knowledge management.<br>
 :bulb: I’m looking to collaborate on open data projects<br>
 :books: My interests are: Public Policy; Science, Technology and Society; Critical Thinking in Data Science and AI. <br>
  ##
